@@ -1,4 +1,4 @@
-### Hi bro 👋 I'm xuehui!
+### Hi Bro 👋 I'm xuehui!
 
 <!--
 **xuehuia/xuehuia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
