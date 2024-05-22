@@ -4,7 +4,7 @@
   particular field.
 - Whether it’s Linux, networking, virtualization, containerization, cloud
   services, web design, programming (you name it)
-- if it’s something I can use in real life, I’m down for learning and applying
+- If it’s something I can use in real life, I’m down for learning and applying
   it.
 
 ---
