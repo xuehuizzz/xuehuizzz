@@ -1,4 +1,4 @@
-<h1 align="left">Hey Bro, I'm xuehui</h1>
+<h1 align="left">Hey buddy, I'm xuehui</h1>
 
 - I like to learn about new stuff related to technology, not specific to a
   particular field.
