@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xuehuizzz&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuehuizzz)
 
-#### Connect with me
+#### Contact with me:
 [![](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:xuehuizzz103@gmail.com)
