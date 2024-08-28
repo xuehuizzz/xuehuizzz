@@ -4,6 +4,7 @@
 
  <!-- <h1 align="left">Hey buddy, I'm xuehui</h1> -->
 
+- The code is written for people to see, and by the way it can be run on a machine.
 - I like to learn about new stuff related to technology, not specific to a
   particular field.
 - Whether it’s Linux, networking, virtualization, containerization, cloud
