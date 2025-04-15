@@ -2,7 +2,7 @@
     <h2><img src="https://readme-typing-svg.herokuapp.com?font=Optima&size=35&duration=6000&color=FF5733&center=true&vCenter=true&width=800&lines=Hey+buddy,+I'm+xuehui...;welcome+to+my+github+profile...;" alt="Typing SVG"/></h2>
 </div>
 
- <!-- <h1 align="left">Hey buddy, I'm xuehui</h1> -->
+ <!-- <h1 align="left">Hey guys, I'm xuehui</h1> -->
 
 - The code is written for people to see, and by the way it can be run on a machine.
 - I like to learn about new stuff related to technology, not specific to a
