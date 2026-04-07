@@ -3,7 +3,7 @@
 
 <!-- 打字机效果 -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Programs+must+be+written+for+people+to+read;and+only+incidentally+for+machines+to+execute.+%F0%9F%9A%80;--+Harold+Abelson%2C+SICP" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Programs+must+be+written+for+people+to+read;and+only+incidentally+for+machines+to+execute.+%F0%9F%9A%80" />
 </div>
 
 <!-- 社交徽章 -->
@@ -36,11 +36,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=xuehuizzz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuehuizzz&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xuehuizzz&theme=tokyonight&hide_border=true&border_radius=10" />
