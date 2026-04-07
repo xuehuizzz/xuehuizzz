@@ -1,5 +1,6 @@
 <!-- 顶部波浪横幅 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Hello%2C%20this%20is%20Xuehui%27s%20Profile!&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=32" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=What%27s%20up!%20It%27s%20ya%20boy%20Xuehui%20%F0%9F%98%8E&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=32" />
+
 
 <!-- 打字机效果 -->
 <div align="center">
